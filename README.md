@@ -1,5 +1,5 @@
 # Best laptop for music production
-Review of the [https://qualified.one/blog/video_production/best-laptop-for-music-production/](best laptop for music production) in 2022
+Review of the <a href="https://qualified.one/blog/video_production/best-laptop-for-music-production/">best laptop for music production</a> in 2022
 
 If you're a DJ or looking for the best laptop for recording music, then you've come to the right place as we've rounded up the best laptops for making music. For music recording, you're looking for a machine with plenty of processing power and RAM to handle multiple music tracks. A large and fast hard drive or SSD (Solid State Drive) is also necessary as you are going to be working with large file sizes. Excellent speakers, or at least the ability to connect to external speakers, are also important.
 
